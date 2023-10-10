@@ -1,0 +1,18 @@
+.btn a button{
+    animation:animate 1s linear infinite ;
+  }
+
+  
+@keyframes animate{
+    0%{
+      background: red;
+    }
+    20%{
+      background: blue;
+    }
+    40%{
+      background: green;
+    }
+  
+  }
+  
